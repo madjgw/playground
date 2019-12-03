@@ -8,5 +8,7 @@ Tomcat Session ID = <%=session.getId()%><br><br><br><br>
 
 Client IP <%=request.getRemoteAddr()%><br>
 
+헬로 ㅋㅋ
+
 </html>
 
